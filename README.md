@@ -23,7 +23,6 @@ Operação de E/S: A cada ciclo, um processo em execução tem 1% de chance de s
 Saída do Bloqueio: Um processo no estado BLOQUEADO tem 30% de chance de voltar para PRONTO quando o escalonador lhe der atenção.
 
 Troca de Contexto: Ocorre em duas situações:
-
       O quantum do processo termina sem E/S (EXECUTANDO -> PRONTO).
       O processo solicita uma operação de E/S (EXECUTANDO -> BLOQUEADO).
 
@@ -40,5 +39,7 @@ TP: Tempo de Processamento (total de ciclos já executados)
 CP: Contador de Programa (definido como TP + 1)
 
 EP: Estado do Processo (ex: PRONTO)
+
 NES: Número de Vezes que Realizou E/S
+
 N_CPU: Número de Vezes que Usou a CPU
