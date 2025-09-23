@@ -23,8 +23,12 @@ Operação de E/S: A cada ciclo, um processo em execução tem 1% de chance de s
 Saída do Bloqueio: Um processo no estado BLOQUEADO tem 30% de chance de voltar para PRONTO quando o escalonador lhe der atenção.
 
 Troca de Contexto: Ocorre em duas situações:
-      O quantum do processo termina sem E/S (EXECUTANDO -> PRONTO).
-      O processo solicita uma operação de E/S (EXECUTANDO -> BLOQUEADO).
+
+
+O quantum do processo termina sem E/S (EXECUTANDO -> PRONTO).
+
+O processo solicita uma operação de E/S (EXECUTANDO -> BLOQUEADO).
+
 
 Tabela de Processos (PCB): A cada troca de contexto, os dados de todos os processos são salvos no arquivo TabelaDeProcessos.txt, simulando a atualização da Tabela de Processos do Sistema Operacional.
 
