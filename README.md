@@ -1,11 +1,7 @@
-# 📖 Repositório de Atividades
+# 📝 Atividade 2 - Implementação de Algoritmos de Escalonamento de Processos
 
-Este repositório foi criado com o objetivo de centralizar todas as atividades da disciplina de Sistemas Operacionais em um único local.
-Cada atividade foi desenvolvida em uma branch separada, facilitando a navegação e consulta do conteúdo.  
+Esta branch contém o código-fonte de uma atividade desenvolvida para a disciplina de Sistemas Operacionais. O objetivo é aplicar e visualizar na prática os conceitos de gerenciamento de processos, escalonamento de CPU e mudanças de estado através de uma simulação desenvolvida em Java.
 
----
+Todo o código relacionado a essa atividade está disponível aqui, de forma isolada das demais, para facilitar a organização e consulta.
 
-## 📚 Atividades
-
-- Atividade 1 - Aula 4 [Clique aqui para ir ao repositório](https://github.com/ShayraKelly/Atividades_SO/tree/Atividade-Aula-4)
-- Atividade 2 - Aula 6 [Clique aqui para ir ao repositório]()
+📝 Sobre o Projeto
