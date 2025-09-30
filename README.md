@@ -4,10 +4,10 @@ Esta branch contém o código-fonte de uma atividade desenvolvida para a discipl
 
 Todo o código relacionado a essa atividade está disponível aqui, de forma isolada das demais, para facilitar a organização e consulta.
 
-📝 Sobre o Projeto
+##📝 Sobre o Projeto
 A aplicação simula um pequeno sistema operacional gerenciando 10 processos. O escalonador implementado segue o algoritmo Round-Robin, onde cada processo recebe uma fatia de tempo (quantum) para utilizar a CPU. A simulação também modela eventos como operações de Entrada/Saída (E/S), que levam um processo ao estado de bloqueio, e a consequente troca de contexto, que é um dos conceitos centrais da atividade.
 
-⚙️ Regras de Negócio da Simulação
+##⚙️ Regras de Negócio da Simulação
 O ambiente simulado opera sob as seguintes regras:
 
 Processos: Estão em execução 10 processos com PIDs de 0 a 9 e tempos de execução totais distintos.
@@ -32,7 +32,7 @@ O processo solicita uma operação de E/S (EXECUTANDO -> BLOQUEADO).
 
 Tabela de Processos (PCB): A cada troca de contexto, os dados de todos os processos são salvos no arquivo TabelaDeProcessos.txt, simulando a atualização da Tabela de Processos do Sistema Operacional.
 
-🗂️ Estrutura de Dados de um Processo
+##🗂️ Estrutura de Dados de um Processo
 
 Cada processo na simulação é representado por uma estrutura que contém os seguintes dados:
 
