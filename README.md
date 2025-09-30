@@ -8,3 +8,4 @@ Cada atividade foi desenvolvida em uma branch separada, facilitando a navegaçã
 ## 📚 Atividades
 
 - Atividade 1 - Aula 4 [Clique aqui para ir ao repositório](https://github.com/ShayraKelly/Atividades_SO/tree/Atividade-Aula-4)
+- Atividade 2 - Aula 6 [Clique aqui para ir ao repositório]()
