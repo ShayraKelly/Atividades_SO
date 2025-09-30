@@ -5,7 +5,7 @@ O objetivo da atividade é implementar e analisar diferentes algoritmos de escal
 
 Todo o código relacionado a esta atividade está disponível de forma isolada nesta branch, para facilitar a organização e consulta.
 
-O trabalho tem como objetivos principais a implementação dos algoritmos FCFS, SJF, Round Robin, Priority Scheduling, Priority Scheduling com múltiplas filas e Lottery Scheduling, além da simulação do comportamento de uma CPU escalonando processos. A atividade também visa exibir resultados como a ordem de execução, o tempo de espera e o tempo de retorno de cada processo, bem como os tempos médios correspondentes, permitindo a análise comparativa entre as diferentes estratégias de escalonamento.
+O trabalho tem como objetivos principais a implementação dos algoritmos FCFS, SJF, Round Robin, Priority Scheduling, Priority Scheduling com múltiplas filas e Lottery Scheduling em python, além da simulação do comportamento de uma CPU escalonando processos. A atividade também visa exibir resultados como a ordem de execução, o tempo de espera e o tempo de retorno de cada processo, bem como os tempos médios correspondentes, permitindo a análise comparativa entre as diferentes estratégias de escalonamento.
 
 ## 📝 Sobre o Projeto  
 
